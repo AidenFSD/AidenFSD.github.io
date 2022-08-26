@@ -1,2 +1,4 @@
-# Web-CakeArtByJames
-School Project - Build a website for a business
+# WD_Final_Project
+ Web Design for home-based business:
+
+### Cake Art by James
